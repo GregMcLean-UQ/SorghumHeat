@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommand>C:\Apsim\Apsim2017\Model\ApsimModel.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments>"C:\Pioneer\Experiments\Viluco\Sorghum_Viluco2018Sorghum_83P73_Severe_DCaPST.sim"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
