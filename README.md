@@ -1,2 +1,2 @@
 # SorghumHeat
-Implementing the latest hear routines for Viluco experiments
+Implementing the latest heat routines for Viluco experiments
